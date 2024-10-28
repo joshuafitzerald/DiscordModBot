@@ -21,7 +21,7 @@ Install the required libraries using pip:
 
 Create a .env file in the root directory of your project to store your bot token securely:
 
-    DISCORD_TOKEN=your_discord_bot_token
+    YOUR_DISCORD_BOT_TOKEN=your_discord_bot_token
 
 Update .gitignore to prevent .env from being committed to your repository.
 
